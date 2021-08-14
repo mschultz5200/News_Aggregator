@@ -7,8 +7,8 @@ const pool = new Pool({
     user: 'matthewschultz',
     host: 'localhost',
     database: 'api',
-    password: 'Hpto3200',
-    port: 5432,
+    password: '******',
+    port: *****,
 });
 
 const validateNumber = number => {
